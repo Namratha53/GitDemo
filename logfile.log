@@ -1,0 +1,6 @@
+2020-12-14 12:31:56,751 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-14 12:31:56,751 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-14 12:42:55,317 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-14 12:42:55,317 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-14 12:50:01,691 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-14 12:50:01,691 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue

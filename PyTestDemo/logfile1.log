@@ -1,0 +1,25 @@
+2020-12-11 15:53:06,784 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:53:06,785 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:53:06,785 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:53:50,968 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:53:50,968 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:53:50,968 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:54:56,371 : INFO : test_editProfile Rahul
+2020-12-11 15:54:56,371 : INFO : test_editProfile Shetty
+2020-12-11 15:54:56,371 : INFO : test_editProfile Rahulshettyacademy.com
+2020-12-11 15:56:33,734 : INFO : test_editProfile Rahul
+2020-12-11 15:56:33,734 : INFO : test_editProfile Shetty
+2020-12-11 15:56:33,734 : INFO : test_editProfile Rahulshettyacademy.com
+2020-12-11 16:02:18,323 : INFO : test_editProfile Rahul
+2020-12-11 16:02:18,333 : INFO : test_editProfile Shetty
+2020-12-11 16:02:18,333 : INFO : test_editProfile Rahulshettyacademy.com
+2020-12-11 16:04:27,213 : INFO : test_editProfile Rahul
+2020-12-11 16:04:27,214 : INFO : test_editProfile Shetty
+2020-12-11 16:04:27,214 : INFO : test_editProfile Rahulshettyacademy.com
+2020-12-14 12:28:16,477 : INFO : test_editProfile Rahul
+2020-12-14 12:28:16,477 : INFO : test_editProfile Shetty
+2020-12-14 12:28:16,493 : INFO : test_editProfile Rahulshettyacademy.com
+2020-12-15 15:46:03,686 :INFO : test_editProfile :Rahul
+2020-12-15 15:46:03,702 :INFO : test_editProfile :rahulshettyacademy.com
+2020-12-15 15:46:31,271 :INFO : test_editProfile :Rahul
+2020-12-15 15:46:31,271 :INFO : test_editProfile :rahulshettyacademy.com

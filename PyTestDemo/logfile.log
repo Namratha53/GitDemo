@@ -1,0 +1,24 @@
+2020-12-11 15:49:12,635 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:49:12,635 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:49:12,635 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:51:14,430 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:51:14,430 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:51:14,430 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:51:32,182 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:51:32,182 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:51:32,182 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:52:33,975 : INFO : PyTestDemo.BaseClass Rahul
+2020-12-11 15:52:33,975 : INFO : PyTestDemo.BaseClass Shetty
+2020-12-11 15:52:33,975 : INFO : PyTestDemo.BaseClass Rahulshettyacademy.com
+2020-12-11 15:53:50,980 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-11 15:53:50,980 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-11 15:56:33,741 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-11 15:56:33,742 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-11 16:04:27,217 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-11 16:04:27,217 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-14 12:48:12,831 :INFO : test_editProfile :Rahul
+2020-12-14 12:48:12,865 :INFO : test_editProfile :Rahulshettyacademy.com
+2020-12-15 15:46:03,717 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-15 15:46:03,717 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
+2020-12-15 15:46:31,271 : ERROR : PyTestDemo.test_loggingDemo Major error occured
+2020-12-15 15:46:31,271 : CRITICAL : PyTestDemo.test_loggingDemo Critical issue
